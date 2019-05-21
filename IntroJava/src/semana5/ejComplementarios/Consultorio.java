@@ -45,9 +45,10 @@ public class Consultorio {
 		this.doctor = doctor;
 	}
 
-	public void agregarPaciente(String[] paciente) {
-		this.setPacientes(paciente);
-		System.out.println("Se agrego el ultimo paciente " + this.pacientes);
+	public void agregarPaciente(String paciente) {
+		// pacientes.add(paciente);
+		// pacientes=add(pacientes,paciente);
+		System.out.println("Se agrego  ultimo paciente " + this.pacientes);
 	}
 
 	public void listarPacientes() {
