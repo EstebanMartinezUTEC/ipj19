@@ -1,4 +1,4 @@
-package presenciales.mayo21;
+package presenciales.mayo21.Ejercicio2;
 
 import java.util.Scanner;
 

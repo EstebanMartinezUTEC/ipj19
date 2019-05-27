@@ -1,4 +1,4 @@
-package presenciales.mayo21;
+package presenciales.mayo21.Ejercicio1;
 
 public class Ejercicio1 {
 
